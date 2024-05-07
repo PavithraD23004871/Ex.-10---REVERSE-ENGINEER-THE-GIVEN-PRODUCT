@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/PavithraD23004871/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138955967/367d752c-f87d-466c-8021-aeb1c30683cd)
 
 ### Output:
+![image](https://github.com/PavithraD23004871/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138955967/cd7f8355-6195-4eef-8154-aae9a5f9763b)
 
 
-### Name:
-### Register Number:
+### Name:Pavithra D
+### Register Number:212223230146
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
